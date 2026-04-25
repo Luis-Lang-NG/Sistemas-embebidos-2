@@ -14,14 +14,16 @@ El proyecto se basa en la conversión de señales digitales rápidas en voltajes
 
 Materiales y Requisitos
 
-  - Hardware (Simulado en Proteus):
+Hardware (Simulado en Proteus):
+
 
 - 1x Arduino Nano (Atmega328P).
 - 2x Resistencias de 1kΩ (Filtro).
 - 2x Capacitores de 0.5µF (Filtro).
 - 1x Potenciómetro de 10kΩ (Control de velocidad).
 
-  - Software:
+Software:
+
 
 - Arduino IDE (Compilación).
 - Proteus 8 Professional (Simulación).

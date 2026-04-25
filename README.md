@@ -1,6 +1,7 @@
 # Sistemas-embebidos-2
  Generador de Gráficos Vectoriales XY con Arduino y Filtros RC
-Este proyecto demuestra la generación de gráficos vectoriales en un osciloscopio utilizando señales PWM (Modulación por Ancho de Pulsos) procesadas mediante filtros analógicos. El sistema permite "dibujar" tres árboles de Navidad en una pantalla en modo XY, controlando la velocidad de refresco mediante un potenciómetro.
+ 
+ Este proyecto demuestra la generación de gráficos vectoriales en un osciloscopio utilizando señales PWM (Modulación por Ancho de Pulsos) procesadas mediante filtros analógicos. El sistema permite "dibujar" tres árboles de Navidad en una pantalla en modo XY, controlando la velocidad de refresco mediante un potenciómetro.
 
 Método Utilizado: Síntesis Analógica de Señales
 
